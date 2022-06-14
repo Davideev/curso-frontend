@@ -26,7 +26,11 @@ git clone https://github.com/Davideev/curso-frontend.git
 
 ## Commits 
 Informação de alteração
-- após testado todo seu codigo
+- após testado todo seu código
+- git add * 
+- git commit  - m "mensagem"
+- git push (enviar alterações para o repositório GitHub)
+- git pull (puxar / trazer alterações do Github para minha máquina)
 
 ## Gitflow
 Fluxo do Git
