@@ -32,6 +32,6 @@ Informação de alteração
 Fluxo do Git
 
 ## Comandos Config Global
-git config --global user.name "David Ferreira"
-git config --global user.email dferreira02@live.com
-git config ( options )
+git config --global user.name "David Ferreira" <br>
+git config --global user.email dferreira02@live.com <br>
+git config ( options )<br>
