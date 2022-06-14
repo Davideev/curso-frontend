@@ -22,6 +22,7 @@ Mac (brew): brew install git
 ## Criar conta no GitHub
 
 ## Clonar o projeto
+git clone https://github.com/Davideev/curso-frontend.git
 
 ## Commits 
 Informação de alteração
@@ -29,3 +30,8 @@ Informação de alteração
 
 ## Gitflow
 Fluxo do Git
+
+## Comandos Config Global
+git config --global user.name "David Ferreira" <br>
+git config --global user.email dferreira02@live.com <br>
+git config ( options )<br>
