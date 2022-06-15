@@ -35,6 +35,14 @@ Informação de alteração
 ## Gitflow
 Fluxo do Git
 
+## Branchs
+
+São ramificações / versões paralelas
+-main / master (v ai para produção,quando o projeto é publicado)
+-develop
+-DOD Definition of Done: Critérios de aceite
+versinamento 1.0.0
+
 ## Comandos Config Global
 git config --global user.name "David Ferreira" <br>
 git config --global user.email dferreira02@live.com <br>
