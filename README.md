@@ -49,7 +49,20 @@ versinamento 1.0.0
 ### Merge 
 
 Mesclas de Branchs
+Você pode precisar resolver  conflitos manualmente 
 
+git merge main
+
+### Pull Request 
+
+Mescla  de branchs  no repositório
+Permite code review
+o repositório  resolve  os conflitos  automaticamente 
+
+### Configuração GitFlow 
+
+git flow  init
+git flwo  feature star {nome-da-feature}
 ## Comandos Config Global
 git config --global user.name "David Ferreira" <br>
 git config --global user.email dferreira02@live.com <br>
