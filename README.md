@@ -45,7 +45,7 @@ versinamento 1.0.0
 
 ### Merge 
 
-Mesclas de Branchs
+Mesclas de Branchsx
 
 ## Comandos Config Global
 git config --global user.name "David Ferreira" <br>
