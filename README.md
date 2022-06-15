@@ -43,6 +43,10 @@ São ramificações / versões paralelas
 -DOD Definition of Done: Critérios de aceite
 versinamento 1.0.0
 
+### Merge 
+
+Mesclas de Branchs
+
 ## Comandos Config Global
 git config --global user.name "David Ferreira" <br>
 git config --global user.email dferreira02@live.com <br>
