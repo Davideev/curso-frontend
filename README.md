@@ -43,6 +43,9 @@ São ramificações / versões paralelas
 -DOD Definition of Done: Critérios de aceite
 versinamento 1.0.0
 
+-git checkout -b dev (cria um branch)
+-git checkout master (mudar de  branch)
+
 ### Merge 
 
 Mesclas de Branchs
