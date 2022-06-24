@@ -140,6 +140,7 @@ footer small {
 
 
 .cognito {
+    float: left;
     height: 320px !important;
     overflow: hidden !important;
 }
