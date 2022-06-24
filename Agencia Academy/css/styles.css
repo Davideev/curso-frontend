@@ -156,3 +156,16 @@ footer small {
 .cog-cognito {
     background-color: #ffb1c1 !important;
 }
+
+
+@media (max-width: 320px) {
+    section nav,
+    section article {
+        width: 100%;
+    }
+
+    .container {
+        padding left: 1%;
+        padding-right: 1%;
+    }
+}
